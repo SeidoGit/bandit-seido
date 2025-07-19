@@ -1,4 +1,4 @@
-# bandit-seido
+# repo bandit_01
 Primer repo creado en github
 
 ## descripción
